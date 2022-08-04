@@ -1,1 +1,468 @@
-<h1>Test</h1>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf8" />
+    <title>PrivacyTools</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
+      crossorigin="anonymous"
+    />
+    <link rel="icon" type="image/x-icon" href="<?php echo $icon ?>" />
+    <link rel="apple-touch-icon" href="<?php echo $icon ?>" />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="./Styles/privacyTools.css"
+      media="screen"
+    />
+  </head>
+
+  <body>
+    <div class="position-absolute end-0 top-0" id="top"></div>
+
+    <div class="container-fluent">
+      <div class="row mt-3">
+        <h1 class="heading">Privacy Tools</h1>
+      </div>
+
+      <div class="row mt-5">
+        <div class="col-lg mt-2 mb-5">
+          <div class="card mx-auto shadow" style="width: 90%">
+            <img
+              src="https://lna-dev.com/Assets/privacyTools/UbuntuLogo.png"
+              class="card-img-top"
+              alt="..."
+            />
+            <div class="card-body">
+              <h5 class="card-title">
+                Ubuntu
+                <span class="badge rounded-pill bg-secondary"
+                  >Operating System</span
+                >
+              </h5>
+              <p class="card-text">
+                Ubuntu is an operating system based on Debian-Linux. It is easy
+                to use and definetley a way more privacy friendly solution than
+                windows. Also it is one of the most common Linux distributions.
+                There is a lot of FOSS (Free and open source software) availible
+                for it. Ubuntu itself is FOSS.
+              </p>
+              <a
+                href="https://ubuntu.com/"
+                class="btn-lg btn-primary text-decoration-none"
+                >More</a
+              >
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg mt-2 mb-5">
+          <div class="card mx-auto shadow" style="width: 90%">
+            <img
+              src="https://lna-dev.com/Assets/privacyTools/CryptomatorLogo.png"
+              class="card-img-top"
+              alt="..."
+            />
+            <div class="card-body">
+              <h5 class="card-title">
+                Cryptomator
+                <span class="badge rounded-pill bg-secondary">Storage</span>
+              </h5>
+              <p class="card-text">
+                Cryptomator is an encryption tool. It's key feature is its cloud
+                folder encryption. Basically you can encrypt a folder in one of
+                many cloud services and acces the data even on mobile devices.
+                It is available for Windows, Linux, MAC-OS, IOS and Android.
+                Cryptomator is FOSS.
+              </p>
+              <a
+                href="https://cryptomator.org/"
+                class="btn-lg btn-primary text-decoration-none"
+                >More</a
+              >
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg mt-2 mb-5">
+          <div class="card mx-auto shadow" style="width: 90%">
+            <img
+              src="https://lna-dev.com/Assets/privacyTools/NextcloudLogo.png"
+              class="card-img-top"
+              alt="..."
+            />
+            <div class="card-body">
+              <h5 class="card-title">
+                Nextcloud
+                <span class="badge rounded-pill bg-secondary">Storage</span>
+              </h5>
+              <p class="card-text">
+                Nextcloud is FOSS which is basically a self hosted cloud. It's
+                not very convenient to use. But it gets the job done. It
+                supports multiple APPs written by the community. By default the
+                data isn't encrypted (only on transfer). But you can enable
+                server site encryption.
+              </p>
+              <a
+                href="https://nextcloud.com/"
+                class="btn-lg btn-primary text-decoration-none"
+                >More</a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row mt-5">
+        <div class="col-lg mt-2 mb-5">
+          <div class="card mx-auto shadow" style="width: 90%">
+            <img
+              src="https://lna-dev.com/Assets/privacyTools/MatrixLogo.png"
+              class="card-img-top"
+              alt="..."
+            />
+            <div class="card-body">
+              <h5 class="card-title">
+                Matrix <span class="badge rounded-pill bg-secondary">Chat</span>
+              </h5>
+              <p class="card-text">
+                Matrix is a decentral chat service. It supports voice and video
+                calls, voice messages, images and text. But there are no real
+                limitations. There are many clients beacause it is FOSS. You can
+                host your own server. But this server can communicate with all
+                other servers as well as the users.
+              </p>
+              <a
+                href="https://matrix.org/"
+                class="btn-lg btn-primary text-decoration-none"
+                >More</a
+              >
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg mt-2 mb-5">
+          <div class="card mx-auto shadow" style="width: 90%">
+            <img
+              src="https://lna-dev.com/Assets/privacyTools/SignalLogo.png"
+              class="card-img-top"
+              alt="..."
+            />
+            <div class="card-body">
+              <h5 class="card-title">
+                Signal <span class="badge rounded-pill bg-secondary">Chat</span>
+              </h5>
+              <p class="card-text">
+                Signal is a privacy friendly chat app compareable with WhatsApp.
+                It also has the ability to send MOB (MobileCoins) to another
+                user of the app. Also it has nearly all features off WhatsApp.
+                After matrix it is the best chat service. It's partly open
+                source.
+              </p>
+              <a
+                href="https://signal.org"
+                class="btn-lg btn-primary text-decoration-none"
+                >More</a
+              >
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg mt-2 mb-5">
+          <div class="card mx-auto shadow" style="width: 90%">
+            <img
+              src="https://lna-dev.com/Assets/privacyTools/KeePassXCLogo.png"
+              class="card-img-top"
+              alt="..."
+            />
+            <div class="card-body">
+              <h5 class="card-title">
+                KeePassXC
+                <span class="badge rounded-pill bg-secondary"
+                  >Passoword Manager</span
+                >
+              </h5>
+              <p class="card-text">
+                KeePassXC is a password manager based on KeePass. It is
+                crossplatform and FOSS. If youre tired of remembering passwords
+                just give it a try. It's design is state of the art and it has a
+                lot of features. For example plugins in the common browsers.
+              </p>
+              <a
+                href="https://keepassxc.org/"
+                class="btn-lg btn-primary text-decoration-none"
+                >More</a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row mt-5">
+        <div class="col-lg mt-2 mb-5">
+          <div class="card mx-auto shadow" style="width: 90%">
+            <img
+              src="https://lna-dev.com/Assets/privacyTools/YubikeyLogo.png"
+              class="card-img-top"
+              alt="..."
+            />
+            <div class="card-body">
+              <h5 class="card-title">
+                Yubikey
+                <span class="badge rounded-pill bg-secondary">2FactorAuth</span>
+              </h5>
+              <p class="card-text">
+                Yubikey is a hardware security key. It has a ton of features
+                such like two factor authentication. It also can store up to two
+                passwords. It acts as an real security key and is supported by
+                all common operating systems. It costs about 50€.
+              </p>
+              <a
+                href="https://www.yubico.com/products/"
+                class="btn-lg btn-primary text-decoration-none"
+                >More</a
+              >
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg mt-2 mb-5">
+          <div class="card mx-auto shadow" style="width: 90%">
+            <img
+              src="https://lna-dev.com/Assets/privacyTools/PiHoleLogo.png"
+              class="card-img-top"
+              alt="..."
+            />
+            <div class="card-body">
+              <h5 class="card-title">
+                PiHole
+                <span class="badge rounded-pill bg-secondary"
+                  >AdBlocker / DNS</span
+                >
+              </h5>
+              <p class="card-text">
+                PiHole is a network wide AdBlocker. But you can also block what
+                ever you want. For example domains which are known for scamming,
+                phishing or other stuff you want to protect your network from.
+                You can also create groups to block content for only a few
+                devices. It is FOSS.
+              </p>
+              <a
+                href="https://pi-hole.net/"
+                class="btn-lg btn-primary text-decoration-none"
+                >More</a
+              >
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg mt-2 mb-5">
+          <div class="card mx-auto shadow" style="width: 90%">
+            <img
+              src="https://lna-dev.com/Assets/privacyTools/PiVpnLogo.png"
+              class="card-img-top"
+              alt="..."
+            />
+            <div class="card-body">
+              <h5 class="card-title">
+                PiVPN <span class="badge rounded-pill bg-secondary">VPN</span>
+              </h5>
+              <p class="card-text">
+                A self hosted vpn connection to your home network. So you can
+                use your internal resources, turn on your pc per wake on lan and
+                connect to it with RDP from all over the world. You can also use
+                your PiHole. It is FOSS.
+              </p>
+              <a
+                href="https://pivpn.io/"
+                class="btn-lg btn-primary text-decoration-none"
+                >More</a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row mt-5">
+        <div class="col-lg mt-2 mb-5">
+          <div class="card mx-auto shadow" style="width: 90%">
+            <img
+              src="https://lna-dev.com/Assets/privacyTools/FirefoxLogo.png"
+              class="card-img-top"
+              alt="..."
+            />
+            <div class="card-body">
+              <h5 class="card-title">
+                Firefox
+                <span class="badge rounded-pill bg-secondary">Browser</span>
+              </h5>
+              <p class="card-text">
+                Firefox is a privacy fiendly browser with a lot of features such
+                as plugins. Firefox is maintained by the non profit organization
+                mozilla. Its apps run on every common operating system. You wont
+                be missing anything.
+              </p>
+              <a
+                href="https://www.mozilla.org/firefox/browsers/"
+                class="btn-lg btn-primary text-decoration-none"
+                >More</a
+              >
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg mt-2 mb-5">
+          <div class="card mx-auto shadow" style="width: 90%">
+            <img
+              src="https://lna-dev.com/Assets/privacyTools/DuckDuckGoLogo.png"
+              class="card-img-top"
+              alt="..."
+            />
+            <div class="card-body">
+              <h5 class="card-title">
+                DuckDuckGo
+                <span class="badge rounded-pill bg-secondary"
+                  >Search Engine</span
+                >
+              </h5>
+              <p class="card-text">
+                A privacy friendly search engine. It's search results are
+                similiar to the results of Google. So you can change to
+                DuckDuckGo without any effort. DuckDuckGo does make money with
+                ads to maintain the service. It has a lot of features just like
+                safe search.
+              </p>
+              <a
+                href="https://duckduckgo.com/"
+                class="btn-lg btn-primary text-decoration-none"
+                >More</a
+              >
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg mt-2 mb-5">
+          <div class="card mx-auto shadow" style="width: 90%">
+            <img
+              src="https://lna-dev.com/Assets/privacyTools/ProtonMailLogo.png"
+              class="card-img-top"
+              alt="..."
+            />
+            <div class="card-body">
+              <h5 class="card-title">
+                Protonmail
+                <span class="badge rounded-pill bg-secondary">E-Mail</span>
+              </h5>
+              <p class="card-text">
+                Protonmail is a secure e-mail service located in switzerland.
+                Protonmail encrypts all the emails. There were some issues where
+                protonmail logged for the government of switzerland but proton
+                fought for their customers.
+              </p>
+              <a
+                href="https://protonmail.com"
+                class="btn-lg btn-primary text-decoration-none"
+                >More</a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row mt-5">
+        <div class="col-lg mt-2 mb-5">
+          <div class="card mx-auto shadow" style="width: 90%">
+            <img
+              src="https://lna-dev.com/Assets/privacyTools/TorLogo.png"
+              class="card-img-top"
+              alt="..."
+            />
+            <div class="card-body">
+              <h5 class="card-title">
+                Tor
+                <span class="badge rounded-pill bg-secondary"
+                  >Browser / VPN</span
+                >
+              </h5>
+              <p class="card-text">
+                Tor is a complex network of vpn/proxy like connections. Your
+                traffic goes threw an entry node. After that it will go to a few
+                middle nodes. And at the end the traffic leaves the tor network
+                by an exit node. The protocol tor is using is the onion
+                protocol. Tor stands for the onion router.
+              </p>
+              <a
+                href="https://www.torproject.org/"
+                class="btn-lg btn-primary text-decoration-none"
+                >More</a
+              >
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg mt-2 mb-5">
+          <div class="card mx-auto shadow" style="width: 90%">
+            <img
+              src="https://lna-dev.com/Assets/privacyTools/ElementLogo.png"
+              class="card-img-top"
+              alt="..."
+            />
+            <div class="card-body">
+              <h5 class="card-title">
+                Element Matrix Client
+                <span class="badge rounded-pill bg-secondary">Chat</span>
+              </h5>
+              <p class="card-text">
+                Element is the most common matrix client. It has tons of
+                features and is very similiar to discord. There are apps for a
+                lot of common operating systems including mobile and web. There
+                is a paid plan which offers to communicate with other chat apps
+                in the element app. Their normal version is free.
+              </p>
+              <a
+                href="https://element.io/"
+                class="btn-lg btn-primary text-decoration-none"
+                >More</a
+              >
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg mt-2 mb-5">
+          <div class="card mx-auto shadow" style="width: 90%">
+            <img
+              src="https://lna-dev.com/Assets/privacyTools/FluffyChatLogo.png"
+              class="card-img-top"
+              alt="..."
+            />
+            <div class="card-body">
+              <h5 class="card-title">
+                Fluffy Chat Matrix Client
+                <span class="badge rounded-pill bg-secondary">Chat</span>
+              </h5>
+              <p class="card-text">
+                Fluffy chat is another chat client for matrix. It looks much
+                more like signal and WhatsApp. The only disadvantage is the
+                missing support of calls. But this may be updated in the future.
+              </p>
+              <a
+                href="https://fluffychat.im/"
+                class="btn-lg btn-primary text-decoration-none"
+                >More</a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+      crossorigin="anonymous"
+    ></script>
+    <script src="../DarkMode/dark-mode-switch.js"></script>
+  </body>
+</html>
