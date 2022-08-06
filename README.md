@@ -64,6 +64,7 @@ The code is distributed under the MIT License. See `LICENSE` for more informatio
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments 🙏
 
+- [Privacy Tools](https://privacytools.io)
 - [LNA-DEV README-Template](https://github.com/lna-dev/README-Template)
 - [Markdown-Badges](https://github.com/Ileriayo/markdown-badges)
 
