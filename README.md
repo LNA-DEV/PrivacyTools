@@ -23,13 +23,12 @@ This repository gets build to a website which lists a view tools which protect y
 
 <br />
 
-<!-- TODO Change the Link -->
-<a href="https://lna-dev.com"><strong>Explore the Project »</strong></a>
+<a href="https://privacy.lna-dev.net"><strong>Explore the Project »</strong></a>
 <br />
 <br />
-<a href="https://github.com/lna-dev/Privacy Tools/issues">Report Bug</a>
+<a href="https://github.com/lna-dev/PrivacyTools/issues">Report Bug</a>
 ·
-<a href="https://github.com/lna-dev/Privacy Tools/issues">Request Feature</a>
+<a href="https://github.com/lna-dev/PrivacyTools/issues">Request Feature</a>
   </p>
 </div>
 
@@ -39,7 +38,7 @@ This repository gets build to a website which lists a view tools which protect y
 <!-- TODO Tell the world about your project -->
 Here you can describe your project a little bit more. Explain the world your thoughts and what your project does. Have fun and build something.
 
-<p align="right">(<a href="#top">back to top ☝</a>)</p>
+<br>
 
 ## Build With 🏗️
 
@@ -47,29 +46,27 @@ Here you can describe your project a little bit more. Explain the world your tho
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 
-<p align="right">(<a href="#top">back to top ☝</a>)</p>
+<br>
 
 <!-- CONTRIBUTING -->
 ## Contributing ✨
 
 If you have any ideas or want to contribute yourself... go for it. I really appreciate it if some of you have cool ideas🚀
 
-<p align="right">(<a href="#top">back to top ☝</a>)</p>
+<br>
 
 <!-- LICENSE -->
 ## License 📝
 
 The code is distributed under the MIT License. See `LICENSE` for more information.
 
-<p align="right">(<a href="#top">back to top ☝</a>)</p>
+<br>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments 🙏
 
 - [LNA-DEV README-Template](https://github.com/lna-dev/README-Template)
 - [Markdown-Badges](https://github.com/Ileriayo/markdown-badges)
-
-<p align="right">(<a href="#top">back to top ☝</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/lna-dev/PrivacyTools.svg?style=for-the-badge
