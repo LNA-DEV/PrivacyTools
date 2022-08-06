@@ -9,87 +9,73 @@
 [![MIT License][license-shield]][license-url]
 
 <!-- PROJECT LOGO -->
-<!-- TODO Change the Link -->
-<!-- TODO Change the image -->
 <br />
 <div align="center">
-  <a href="https://github.com/lna-dev/README-TEMPLATE">
+  <a href="https://github.com/lna-dev/PrivacyTools">
     <img src="https://lna-dev.com/Assets/Metadata/Pingüino-Square.png" alt="Logo" width="80" height="80">
   </a>
 
-<!-- TODO Change the project name -->
-<h3 align="center">README-Template</h3>
+<h3 align="center">Privacy Tools</h3>
 
-<!-- TODO Change the description -->
-In this repository I have created a README-Template based on Best-README-Template
+This repository gets build to a website which lists a view tools which protect your privacy
 
 <p align="center">
 
 <br />
 
-<!-- TODO Change the Link -->
-<a href="https://lna-dev.com"><strong>Explore the Project »</strong></a>
+<a href="https://privacy.lna-dev.net"><strong>Explore the Project »</strong></a>
 <br />
 <br />
-<a href="https://github.com/lna-dev/README-TEMPLATE/issues">Report Bug</a>
+<a href="https://github.com/lna-dev/PrivacyTools/issues">Report Bug</a>
 ·
-<a href="https://github.com/lna-dev/README-TEMPLATE/issues">Request Feature</a>
+<a href="https://github.com/lna-dev/PrivacyTools/issues">Request Feature</a>
   </p>
 </div>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project 🗺️
 
-<!-- TODO Tell the world about your project -->
-Here you can describe your project a little bit more. Explain the world your thoughts and what your project does. Have fun and build something.
+This repository gets build to a website which lists a view tools which protect your privacy. Formerly this was part of my personal website. But I decided to take the project to its own repository. So you can contribute much more easily. Also the encapsulation is much more better and my PersonalWebsite doesn't get a big monolithic application.
 
-<p align="right">(<a href="#top">back to top ☝</a>)</p>
+<br>
 
 ## Build With 🏗️
 
-<!-- TODO Go to https://github.com/Ileriayo/markdown-badges and search for a fitting batch🙃 -->
-
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  
 
-<p align="right">(<a href="#top">back to top ☝</a>)</p>
+<br>
 
 <!-- CONTRIBUTING -->
 ## Contributing ✨
 
-<!-- TODO Customize the contributing text -->
 If you have any ideas or want to contribute yourself... go for it. I really appreciate it if some of you have cool ideas🚀
 
-<p align="right">(<a href="#top">back to top ☝</a>)</p>
+<br>
 
 <!-- LICENSE -->
-<!-- TODO Add the License description -->
 ## License 📝
 
 The code is distributed under the MIT License. See `LICENSE` for more information.
 
-<p align="right">(<a href="#top">back to top ☝</a>)</p>
+<br>
 
 <!-- ACKNOWLEDGMENTS -->
-<!-- TODO Add your acknowledgments -->
 ## Acknowledgments 🙏
 
+- [Privacy Tools](https://privacytools.io)
 - [LNA-DEV README-Template](https://github.com/lna-dev/README-Template)
-- [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 - [Markdown-Badges](https://github.com/Ileriayo/markdown-badges)
 
-<p align="right">(<a href="#top">back to top ☝</a>)</p>
-
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- TODO Update your user name -->
-<!-- TODO Update your project name -->
-[contributors-shield]: https://img.shields.io/github/contributors/lna-dev/README-TEMPLATE.svg?style=for-the-badge
-[contributors-url]: https://github.com/lna-dev/README-TEMPLATE/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/lna-dev/README-TEMPLATE.svg?style=for-the-badge
-[forks-url]: https://github.com/lna-dev/README-TEMPLATE/network/members
-[stars-shield]: https://img.shields.io/github/stars/lna-dev/README-TEMPLATE.svg?style=for-the-badge
-[stars-url]: https://github.com/lna-dev/README-TEMPLATE/stargazers
-[issues-shield]: https://img.shields.io/github/issues/lna-dev/README-TEMPLATE.svg?style=for-the-badge
-[issues-url]: https://github.com/lna-dev/README-TEMPLATE/issues
-[license-shield]: https://img.shields.io/github/license/lna-dev/README-TEMPLATE.svg?style=for-the-badge
-[license-url]: https://github.com/lna-dev/README-TEMPLATE/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/lna-dev/PrivacyTools.svg?style=for-the-badge
+[contributors-url]: https://github.com/lna-dev/PrivacyTools/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/lna-dev/PrivacyTools.svg?style=for-the-badge
+[forks-url]: https://github.com/lna-dev/PrivacyTools/network/members
+[stars-shield]: https://img.shields.io/github/stars/lna-dev/PrivacyTools.svg?style=for-the-badge
+[stars-url]: https://github.com/lna-dev/PrivacyTools/stargazers
+[issues-shield]: https://img.shields.io/github/issues/lna-dev/PrivacyTools.svg?style=for-the-badge
+[issues-url]: https://github.com/lna-dev/PrivacyTools/issues
+[license-shield]: https://img.shields.io/github/license/lna-dev/PrivacyTools.svg?style=for-the-badge
+[license-url]: https://github.com/lna-dev/PrivacyTools/blob/master/LICENSE
