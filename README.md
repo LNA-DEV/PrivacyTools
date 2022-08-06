@@ -35,8 +35,7 @@ This repository gets build to a website which lists a view tools which protect y
 <!-- ABOUT THE PROJECT -->
 ## About The Project 🗺️
 
-<!-- TODO Tell the world about your project -->
-Here you can describe your project a little bit more. Explain the world your thoughts and what your project does. Have fun and build something.
+This repository gets build to a website which lists a view tools which protect your privacy. Formerly this was part of my personal website. But I decided to take the project to its own repository. So you can contribute much more easily. Also the encapsulation is much more better and my PersonalWebsite doesn't get a big monolithic application.
 
 <br>
 
