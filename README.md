@@ -17,8 +17,7 @@
 
 <h3 align="center">Privacy Tools</h3>
 
-<!-- TODO Change the description -->
-In this repository I have created a README-Template based on Best-README-Template
+This repository gets build to a website which lists a view tools which protect your privacy
 
 <p align="center">
 
