@@ -6,7 +6,9 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![MIT License][license-shield]][license-url]  
+
+[![wakatime](https://wakatime.com/badge/user/d37401d6-1566-41ea-b7ab-8cc7d2c9f55b/project/eb177495-90d7-402f-b3a5-04a5254d050d.svg)](https://wakatime.com/badge/user/d37401d6-1566-41ea-b7ab-8cc7d2c9f55b/project/eb177495-90d7-402f-b3a5-04a5254d050d)  
 
 <!-- PROJECT LOGO -->
 <br />
