@@ -37,6 +37,7 @@ This repository gets build to a website which lists a view tools which protect y
 <!-- ABOUT THE PROJECT -->
 ## About The Project 🗺️
 
+⚠️ This repository got merged with my personal website ⚠️  
 This repository gets build to a website which lists a view tools which protect your privacy. Formerly this was part of my personal website. But I decided to take the project to its own repository. So you can contribute much more easily. Also the encapsulation is much more better and my PersonalWebsite doesn't get a big monolithic application.
 
 <br>
